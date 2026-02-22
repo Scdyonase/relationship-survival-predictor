@@ -3,3 +3,4 @@ numpy
 plotly
 fpdf2
 matplotlib
+scipy
